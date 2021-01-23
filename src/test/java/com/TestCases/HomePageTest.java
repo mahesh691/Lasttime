@@ -1,9 +1,12 @@
 package com.TestCases; 
 
 import org.testng.annotations.Test;
+
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Listeners;
+
 import com.Page.Employeelistpage;
 import com.Page.HomePage;
 import com.Page.LoginPage;
@@ -33,14 +36,14 @@ public class HomePageTest extends Testing{
 	@Test(priority = 1)
 	public void homepagevalidatioontest() {
 		Assert.assertEquals(HomePage.homepagevalidation(), "Welcome Admin", "not matched welcome page");
-		Test.pass("successfully opened homePage ");
 		Log.info("successfully opened homePage ");
 
 	}
 	@Test(priority = 2)
 	public void adminPAgeTest() {
 		HomePage.clickonadmin();
-		Test.pass("successfully opened  admin");
+		Assert.assertTrue(driver.getCurrentUrl().contains("admin"));
+		
 		Log.info("successfully opened  admin");
 
 	}
@@ -48,7 +51,7 @@ public class HomePageTest extends Testing{
 	@Test(priority = 3)
 	public void pimPageTest() {
 		HomePage.clickonpim();
-      	Test.pass("successfully opened pim");
+		Assert.assertTrue(driver.getCurrentUrl().contains("pim"));
 		Log.info("successfully opened pim");
 
 	}
@@ -56,7 +59,7 @@ public class HomePageTest extends Testing{
 	@Test(priority = 4)
 	public void recruitementPageTest() {
 		HomePage.clickonrecruitement();
-		Test.pass("successfully opened recruitement");
+		Assert.assertTrue(driver.getCurrentUrl().contains("recruitment"));
 		Log.info("successfully opened recruitement");
 
 	}
@@ -64,8 +67,8 @@ public class HomePageTest extends Testing{
 	@Test(priority = 5)
 	public void verifyaddemployeetest() throws InterruptedException {
 		addemployeepage = HomePage.clickonaddemployee();
-		Thread.sleep(10000);
-		Test.pass("successfully opened add employee");
+		Thread.sleep(3000);
+		Assert.assertTrue(driver.getCurrentUrl().contains("addEmployee"));
 		Log.info("successfully opened add employee");
 
 	}
@@ -73,7 +76,7 @@ public class HomePageTest extends Testing{
 	@Test(priority = 6)
 	public void verifyemployeelistTest() throws InterruptedException {
 		Employeelistpage = HomePage.clickonaddemployeelist();
-		Test.pass("successfully opened employeelist");
+		Assert.assertTrue(driver.getCurrentUrl().contains("viewEmployeeList"));
 		Log.info("successfully opened employeelist");
 
 	}

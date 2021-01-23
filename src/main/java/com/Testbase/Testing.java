@@ -12,12 +12,15 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-
+import org.testng.ITestResult;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeSuite;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
-
+import com.aventstack.extentreports.Status;
+import com.aventstack.extentreports.markuputils.ExtentColor;
+import com.aventstack.extentreports.markuputils.MarkupHelper;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.ChartLocation;
 import com.aventstack.extentreports.reporter.configuration.Theme;
@@ -65,7 +68,7 @@ public class Testing {
 	}
 	
 	public static  String getDate() {
-		SimpleDateFormat formatter=new SimpleDateFormat("dd/MM/yyyy:hh:mm:ss");
+		SimpleDateFormat formatter=new SimpleDateFormat("dd_MM_yyyy_hh:mm:ss");
 		Date date = new Date();
 		return formatter.format(date);
 	}
@@ -90,6 +93,18 @@ public class Testing {
 		
 		
 			}
+	
+	 @AfterMethod
+	    public void getResult(ITestResult result){
+	        if(result.getStatus() == ITestResult.SUCCESS) {
+	        	Test.log(Status.PASS, MarkupHelper.createLabel(result.getName() + " - Test Case Passed", ExtentColor.GREEN));
+
+	        }else if(result.getStatus() == ITestResult.FAILURE){
+	            Test.log(Status.FAIL, MarkupHelper.createLabel(result.getName() + " - Test Case Failed", ExtentColor.RED));
+	        }else if(result.getStatus() == ITestResult.SKIP){
+	            Test.log(Status.SKIP, MarkupHelper.createLabel(result.getName() + " - Test Case Skipped", ExtentColor.ORANGE));   
+	        }
+	    }
 	
 	
 	}

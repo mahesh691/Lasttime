@@ -32,9 +32,10 @@ public String homepagevalidation() {
 	return wc.getText();
 }
 	
-	public adminPage clickonadmin() {
+public adminPage clickonadmin() {
 		admin.click();
-return new adminPage();
+		
+   return new adminPage();
 }
 		
 	public pimPage clickonpim() {

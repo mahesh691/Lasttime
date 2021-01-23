@@ -7,7 +7,7 @@ public class GetDateCurrent {
 
 	
 	public void get(String cureentDate) {
-		SimpleDateFormat formatter=new SimpleDateFormat("dd/MM/yyyy hh:mm:ss");
+		SimpleDateFormat formatter=new SimpleDateFormat("dd_MM_yyyy_hh:mm:ss");
 		Date date = new Date();
 		cureentDate=formatter.format(date);
 	}
