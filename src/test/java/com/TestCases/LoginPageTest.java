@@ -36,7 +36,6 @@ public LoginPageTest() {
 	
 	@Test(priority = 1)
 	public void loginPageLogoTest() {
-		System.out.println("bbbbbbbbbbbbbbbbb");
 		boolean flag=LoginPage.logoValid();
 		Log.info("logo image display status :"+cureentDate+flag);
 		Test.pass("logo image display status :"+flag);

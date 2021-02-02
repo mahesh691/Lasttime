@@ -41,7 +41,7 @@ public class Employeelistpage extends Testing {
 		List<WebElement> rows=tbody.findElements(By.tagName("tr"));
 		System.out.println(rows.size());
 		
-		FileInputStream file = new FileInputStream("E:\\JavaProgrammes\\Home\\mahesh\\src\\main\\java\\com\\Testdata\\Data_asign.xlsx");
+		FileInputStream file = new FileInputStream("./src/main/java/com/Testdata/Data_asign.xlsx");
 		XSSFWorkbook workbook = new XSSFWorkbook(file);
 		XSSFSheet sheet=workbook.createSheet(sheetname);
 		
@@ -56,15 +56,11 @@ public class Employeelistpage extends Testing {
 				
 				Cell c=r.createCell(k);
 				c.setCellValue(cols.get(k).getText());
-				FileOutputStream update = new FileOutputStream("E:\\JavaProgrammes\\Home\\mahesh\\src\\main\\java\\com\\Testdata\\Data_asign.xlsx");
+				FileOutputStream update = new FileOutputStream("./src/main/java/com/Testdata/Data_asign.xlsx");
 				workbook.write(update);
-				
 			}
 			System.out.println();
 		}
-		Test.pass("successfully get data into excell sheet");
-		
+		Test.pass("successfully get data into excell sheet");	
 	}
-
-	
 }

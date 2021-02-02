@@ -1553,3 +1553,240 @@
 2021-01-22 20:32:51,434 - Log -INFO - failed to login to homepage
 2021-01-22 20:32:57,026 - Log -INFO - successfully login in to homepage
 2021-01-22 20:33:03,314 - Log -INFO - failed to login to homepage
+2021-01-23 15:50:42,506 - Log -INFO - orange hrm launched successfully
+2021-01-23 15:50:42,682 - Log -INFO - logo image display status :nulltrue
+2021-01-23 15:50:42,708 - Log -INFO - loginpage successfully validate of page title
+2021-01-23 15:50:49,101 - Log -INFO - failed to login to homepage
+2021-01-23 15:50:58,804 - Log -INFO - failed to login to homepage
+2021-01-23 15:51:10,764 - Log -INFO - orange hrm launched successfully
+2021-01-23 15:51:42,632 - Log -INFO - successfully  addemplyeepage opened:
+2021-01-23 15:52:07,477 - Log -INFO - mahesh ch added employee details
+2021-01-23 15:52:50,652 - Log -INFO - suresh hah added employee details
+2021-01-23 15:53:33,700 - Log -INFO - nagaa cfsfsjk added employee details
+2021-01-23 15:54:16,369 - Log -INFO - dfsh hari added employee details
+2021-01-23 15:54:59,096 - Log -INFO - great nani added employee details
+2021-01-23 15:55:28,152 - Log -INFO - orange hrm launched successfully
+2021-01-23 15:56:14,728 - Log -INFO - orange hrm launched successfully
+2021-01-23 15:56:20,605 - Log -INFO - successfully opened homePage 
+2021-01-23 15:56:22,490 - Log -INFO - successfully opened  admin
+2021-01-23 15:56:23,679 - Log -INFO - successfully opened pim
+2021-01-23 15:56:25,824 - Log -INFO - successfully opened recruitement
+2021-01-23 15:56:49,515 - Log -INFO - successfully opened add employee
+2021-01-23 15:57:00,303 - Log -INFO - successfully opened employeelist
+2021-01-23 15:59:51,589 - Log -INFO - orange hrm launched successfully
+2021-01-23 15:59:51,730 - Log -INFO - logo image display status :nulltrue
+2021-01-23 15:59:51,764 - Log -INFO - loginpage successfully validate of page title
+2021-01-23 15:59:57,305 - Log -INFO - failed to login to homepage
+2021-01-23 16:00:02,916 - Log -INFO - successfully login in to homepage
+2021-01-23 16:00:09,229 - Log -INFO - failed to login to homepage
+2021-01-23 16:01:04,095 - Log -INFO - orange hrm launched successfully
+2021-01-23 16:05:43,006 - Log -INFO - orange hrm launched successfully
+2021-01-23 16:07:11,050 - Log -INFO - orange hrm launched successfully
+2021-01-23 16:07:49,335 - Log -INFO -   
+2021-01-23 16:07:49,652 - Log -INFO - 0003  
+2021-01-23 16:07:49,700 - Log -INFO - nagaa  
+2021-01-23 16:07:49,764 - Log -INFO - cfsfsjk  
+2021-01-23 16:07:49,825 - Log -INFO -   
+2021-01-23 16:07:49,880 - Log -INFO -   
+2021-01-23 16:07:49,930 - Log -INFO -   
+2021-01-23 16:07:49,973 - Log -INFO -   
+2021-01-23 16:07:50,053 - Log -INFO -   
+2021-01-23 16:07:50,128 - Log -INFO - 0008  
+2021-01-23 16:07:50,180 - Log -INFO - nagaa  
+2021-01-23 16:07:50,227 - Log -INFO - cfsfsjk  
+2021-01-23 16:07:50,284 - Log -INFO -   
+2021-01-23 16:07:50,337 - Log -INFO -   
+2021-01-23 16:07:50,385 - Log -INFO -   
+2021-01-23 16:07:50,437 - Log -INFO -   
+2021-01-23 16:07:50,525 - Log -INFO -   
+2021-01-23 16:07:50,600 - Log -INFO - 0013  
+2021-01-23 16:07:50,644 - Log -INFO - nagaa  
+2021-01-23 16:07:50,701 - Log -INFO - cfsfsjk  
+2021-01-23 16:07:50,749 - Log -INFO -   
+2021-01-23 16:07:50,788 - Log -INFO -   
+2021-01-23 16:07:50,829 - Log -INFO -   
+2021-01-23 16:07:50,871 - Log -INFO -   
+2021-01-23 16:07:50,928 - Log -INFO -   
+2021-01-23 16:07:50,970 - Log -INFO - 0018  
+2021-01-23 16:07:51,013 - Log -INFO - nagaa  
+2021-01-23 16:07:51,050 - Log -INFO - cfsfsjk  
+2021-01-23 16:07:51,090 - Log -INFO -   
+2021-01-23 16:07:51,124 - Log -INFO -   
+2021-01-23 16:07:51,157 - Log -INFO -   
+2021-01-23 16:07:51,189 - Log -INFO -   
+2021-01-23 16:07:51,240 - Log -INFO -   
+2021-01-23 16:07:51,294 - Log -INFO - 0023  
+2021-01-23 16:07:51,336 - Log -INFO - nagaa  
+2021-01-23 16:07:51,376 - Log -INFO - cfsfsjk  
+2021-01-23 16:07:51,414 - Log -INFO -   
+2021-01-23 16:07:51,448 - Log -INFO -   
+2021-01-23 16:07:51,482 - Log -INFO -   
+2021-01-23 16:07:51,522 - Log -INFO -   
+2021-01-23 16:07:51,576 - Log -INFO -   
+2021-01-23 16:07:51,613 - Log -INFO - 0001  
+2021-01-23 16:07:51,655 - Log -INFO - mahesh  
+2021-01-23 16:07:51,702 - Log -INFO - ch  
+2021-01-23 16:07:51,740 - Log -INFO -   
+2021-01-23 16:07:51,777 - Log -INFO -   
+2021-01-23 16:07:51,811 - Log -INFO -   
+2021-01-23 16:07:51,845 - Log -INFO -   
+2021-01-23 16:07:51,893 - Log -INFO -   
+2021-01-23 16:07:51,947 - Log -INFO - 0006  
+2021-01-23 16:07:51,987 - Log -INFO - mahesh  
+2021-01-23 16:07:52,023 - Log -INFO - ch  
+2021-01-23 16:07:52,051 - Log -INFO -   
+2021-01-23 16:07:52,076 - Log -INFO -   
+2021-01-23 16:07:52,102 - Log -INFO -   
+2021-01-23 16:07:52,126 - Log -INFO -   
+2021-01-23 16:07:52,171 - Log -INFO -   
+2021-01-23 16:07:52,206 - Log -INFO - 0011  
+2021-01-23 16:07:52,242 - Log -INFO - mahesh  
+2021-01-23 16:07:52,275 - Log -INFO - ch  
+2021-01-23 16:07:52,310 - Log -INFO -   
+2021-01-23 16:07:52,337 - Log -INFO -   
+2021-01-23 16:07:52,362 - Log -INFO -   
+2021-01-23 16:07:52,391 - Log -INFO -   
+2021-01-23 16:07:52,440 - Log -INFO -   
+2021-01-23 16:07:52,474 - Log -INFO - 0016  
+2021-01-23 16:07:52,505 - Log -INFO - mahesh  
+2021-01-23 16:07:52,544 - Log -INFO - ch  
+2021-01-23 16:07:52,576 - Log -INFO -   
+2021-01-23 16:07:52,615 - Log -INFO -   
+2021-01-23 16:07:52,648 - Log -INFO -   
+2021-01-23 16:07:52,679 - Log -INFO -   
+2021-01-23 16:07:52,726 - Log -INFO -   
+2021-01-23 16:07:52,758 - Log -INFO - 0021  
+2021-01-23 16:07:52,796 - Log -INFO - mahesh  
+2021-01-23 16:07:52,823 - Log -INFO - ch  
+2021-01-23 16:07:52,849 - Log -INFO -   
+2021-01-23 16:07:52,877 - Log -INFO -   
+2021-01-23 16:07:52,902 - Log -INFO -   
+2021-01-23 16:07:52,927 - Log -INFO -   
+2021-01-23 16:07:52,980 - Log -INFO -   
+2021-01-23 16:07:53,013 - Log -INFO - 0002  
+2021-01-23 16:07:53,047 - Log -INFO - suresh  
+2021-01-23 16:07:53,079 - Log -INFO - hah  
+2021-01-23 16:07:53,111 - Log -INFO -   
+2021-01-23 16:07:53,139 - Log -INFO -   
+2021-01-23 16:07:53,170 - Log -INFO -   
+2021-01-23 16:07:53,194 - Log -INFO -   
+2021-01-23 16:07:53,246 - Log -INFO -   
+2021-01-23 16:07:53,276 - Log -INFO - 0007  
+2021-01-23 16:07:53,307 - Log -INFO - suresh  
+2021-01-23 16:07:53,343 - Log -INFO - hah  
+2021-01-23 16:07:53,374 - Log -INFO -   
+2021-01-23 16:07:53,402 - Log -INFO -   
+2021-01-23 16:07:53,432 - Log -INFO -   
+2021-01-23 16:07:53,462 - Log -INFO -   
+2021-01-23 16:07:53,500 - Log -INFO -   
+2021-01-23 16:07:53,530 - Log -INFO - 0012  
+2021-01-23 16:07:53,562 - Log -INFO - suresh  
+2021-01-23 16:07:53,598 - Log -INFO - hah  
+2021-01-23 16:07:53,625 - Log -INFO -   
+2021-01-23 16:07:53,654 - Log -INFO -   
+2021-01-23 16:07:53,683 - Log -INFO -   
+2021-01-23 16:07:53,711 - Log -INFO -   
+2021-01-23 16:07:53,754 - Log -INFO -   
+2021-01-23 16:07:53,804 - Log -INFO - 0017  
+2021-01-23 16:07:53,841 - Log -INFO - suresh  
+2021-01-23 16:07:53,876 - Log -INFO - hah  
+2021-01-23 16:07:53,912 - Log -INFO -   
+2021-01-23 16:07:53,950 - Log -INFO -   
+2021-01-23 16:07:53,978 - Log -INFO -   
+2021-01-23 16:07:54,004 - Log -INFO -   
+2021-01-23 16:07:54,038 - Log -INFO -   
+2021-01-23 16:07:54,066 - Log -INFO - 0022  
+2021-01-23 16:07:54,094 - Log -INFO - suresh  
+2021-01-23 16:07:54,137 - Log -INFO - hah  
+2021-01-23 16:07:54,166 - Log -INFO -   
+2021-01-23 16:07:54,195 - Log -INFO -   
+2021-01-23 16:07:54,222 - Log -INFO -   
+2021-01-23 16:07:54,250 - Log -INFO -   
+2021-01-23 16:07:54,292 - Log -INFO -   
+2021-01-23 16:07:54,328 - Log -INFO - 0004  
+2021-01-23 16:07:54,369 - Log -INFO - dfsh  
+2021-01-23 16:07:54,409 - Log -INFO - hari  
+2021-01-23 16:07:54,441 - Log -INFO -   
+2021-01-23 16:07:54,468 - Log -INFO -   
+2021-01-23 16:07:54,498 - Log -INFO -   
+2021-01-23 16:07:54,529 - Log -INFO -   
+2021-01-23 16:07:54,577 - Log -INFO -   
+2021-01-23 16:07:54,608 - Log -INFO - 0009  
+2021-01-23 16:07:54,637 - Log -INFO - dfsh  
+2021-01-23 16:07:54,669 - Log -INFO - hari  
+2021-01-23 16:07:54,694 - Log -INFO -   
+2021-01-23 16:07:54,719 - Log -INFO -   
+2021-01-23 16:07:54,746 - Log -INFO -   
+2021-01-23 16:07:54,772 - Log -INFO -   
+2021-01-23 16:07:54,816 - Log -INFO -   
+2021-01-23 16:07:54,850 - Log -INFO - 0014  
+2021-01-23 16:07:54,879 - Log -INFO - dfsh  
+2021-01-23 16:07:54,904 - Log -INFO - hari  
+2021-01-23 16:07:54,933 - Log -INFO -   
+2021-01-23 16:07:54,959 - Log -INFO -   
+2021-01-23 16:07:54,986 - Log -INFO -   
+2021-01-23 16:07:55,009 - Log -INFO -   
+2021-01-23 16:07:55,050 - Log -INFO -   
+2021-01-23 16:07:55,082 - Log -INFO - 0019  
+2021-01-23 16:07:55,114 - Log -INFO - dfsh  
+2021-01-23 16:07:55,143 - Log -INFO - hari  
+2021-01-23 16:07:55,174 - Log -INFO -   
+2021-01-23 16:07:55,200 - Log -INFO -   
+2021-01-23 16:07:55,226 - Log -INFO -   
+2021-01-23 16:07:55,248 - Log -INFO -   
+2021-01-23 16:07:55,290 - Log -INFO -   
+2021-01-23 16:07:55,320 - Log -INFO - 0024  
+2021-01-23 16:07:55,354 - Log -INFO - dfsh  
+2021-01-23 16:07:55,384 - Log -INFO - hari  
+2021-01-23 16:07:55,422 - Log -INFO -   
+2021-01-23 16:07:55,458 - Log -INFO -   
+2021-01-23 16:07:55,504 - Log -INFO -   
+2021-01-23 16:07:55,537 - Log -INFO -   
+2021-01-23 16:07:55,598 - Log -INFO -   
+2021-01-23 16:07:55,638 - Log -INFO - 0005  
+2021-01-23 16:07:55,674 - Log -INFO - great  
+2021-01-23 16:07:55,713 - Log -INFO - nani  
+2021-01-23 16:07:55,747 - Log -INFO -   
+2021-01-23 16:07:55,796 - Log -INFO -   
+2021-01-23 16:07:55,842 - Log -INFO -   
+2021-01-23 16:07:55,891 - Log -INFO -   
+2021-01-23 16:07:55,964 - Log -INFO -   
+2021-01-23 16:07:56,006 - Log -INFO - 0010  
+2021-01-23 16:07:56,055 - Log -INFO - great  
+2021-01-23 16:07:56,095 - Log -INFO - nani  
+2021-01-23 16:07:56,125 - Log -INFO -   
+2021-01-23 16:07:56,161 - Log -INFO -   
+2021-01-23 16:07:56,187 - Log -INFO -   
+2021-01-23 16:07:56,227 - Log -INFO -   
+2021-01-23 16:07:56,282 - Log -INFO -   
+2021-01-23 16:07:56,310 - Log -INFO - 0015  
+2021-01-23 16:07:56,342 - Log -INFO - great  
+2021-01-23 16:07:56,373 - Log -INFO - nani  
+2021-01-23 16:07:56,404 - Log -INFO -   
+2021-01-23 16:07:56,448 - Log -INFO -   
+2021-01-23 16:07:56,481 - Log -INFO -   
+2021-01-23 16:07:56,507 - Log -INFO -   
+2021-01-23 16:07:56,559 - Log -INFO -   
+2021-01-23 16:07:56,605 - Log -INFO - 0020  
+2021-01-23 16:07:56,666 - Log -INFO - great  
+2021-01-23 16:07:56,707 - Log -INFO - nani  
+2021-01-23 16:07:56,748 - Log -INFO -   
+2021-01-23 16:07:56,781 - Log -INFO -   
+2021-01-23 16:07:56,817 - Log -INFO -   
+2021-01-23 16:07:56,850 - Log -INFO -   
+2021-01-23 16:07:56,903 - Log -INFO -   
+2021-01-23 16:07:56,953 - Log -INFO - 0025  
+2021-01-23 16:07:56,991 - Log -INFO - great  
+2021-01-23 16:07:57,032 - Log -INFO - nani  
+2021-01-23 16:07:57,055 - Log -INFO -   
+2021-01-23 16:07:57,083 - Log -INFO -   
+2021-01-23 16:07:57,110 - Log -INFO -   
+2021-01-23 16:07:57,140 - Log -INFO -   
+2021-02-01 16:29:47,284 - Log -INFO - orange hrm launched successfully
+2021-02-01 16:29:47,651 - Log -INFO - logo image display status :nulltrue
+2021-02-01 16:29:47,696 - Log -INFO - loginpage successfully validate of page title
+2021-02-01 16:29:54,108 - Log -INFO - failed to login to homepage
+2021-02-01 16:34:24,778 - Log -INFO - orange hrm launched successfully
+2021-02-01 16:34:25,128 - Log -INFO - logo image display status :nulltrue
+2021-02-01 16:34:25,167 - Log -INFO - loginpage successfully validate of page title
+2021-02-01 16:34:30,669 - Log -INFO - failed to login to homepage
